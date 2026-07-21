@@ -1,0 +1,150 @@
+{
+  "logo": "/images/logo.jpg",
+  "products": [
+    {
+      "id": "gloss-frutado",
+      "name": "Gloss Labial Frutado",
+      "desc": "Brilho intenso, efeito molhado e não gruda.",
+      "price": 9.99,
+      "tag": "Lábios",
+      "image": "/images/products/gloss-frutado.jpg",
+      "swatches": [
+        {
+          "color": "Vermelho",
+          "hex": "#e0122e",
+          "active": true
+        },
+        {
+          "color": "Pink",
+          "hex": "#ff3fa4",
+          "active": false
+        }
+      ]
+    },
+    {
+      "id": "esfoliante-morango",
+      "name": "Esfoliante Hidratante de Morango",
+      "desc": "Esfoliação suave com cheirinho de morango. 180g.",
+      "price": 11.99,
+      "tag": "Skincare",
+      "image": "/images/products/esfoliante-morango.jpg",
+      "swatches": []
+    },
+    {
+      "id": "oleo-cuticula",
+      "name": "Óleo Revitalizador de Cutícula",
+      "desc": "Caneta prática que nutre e amacia as cutículas. 5ml.",
+      "price": 9.99,
+      "tag": "Unhas",
+      "image": "/images/products/oleo-cuticula.jpg",
+      "swatches": [
+        {
+          "color": "Amarelo",
+          "hex": "#f2d94e",
+          "active": true
+        },
+        {
+          "color": "Vermelho",
+          "hex": "#e8536a",
+          "active": false
+        },
+        {
+          "color": "Transparente",
+          "hex": "#e7e2e2",
+          "active": false
+        },
+        {
+          "color": "Roxo",
+          "hex": "#9b7fd4",
+          "active": false
+        }
+      ]
+    },
+    {
+      "id": "manteiga-labial",
+      "name": "Manteiga Hidratante para Lábios",
+      "desc": "Textura cremosa que hidrata e amacia os lábios.",
+      "price": 9.99,
+      "tag": "Lábios",
+      "image": "/images/products/manteiga-labial.jpg",
+      "swatches": [
+        {
+          "color": "Uva",
+          "hex": "#8b5fbf",
+          "active": true
+        },
+        {
+          "color": "Baunilha",
+          "hex": "#f2e34e",
+          "active": false
+        },
+        {
+          "color": "Morango",
+          "hex": "#ff5d7a",
+          "active": false
+        }
+      ]
+    },
+    {
+      "id": "esponja-maquiagem",
+      "name": "Esponja de Maquiagem",
+      "desc": "Base uniforme e acabamento impecável.",
+      "price": 9.99,
+      "tag": "Acessórios",
+      "image": "/images/products/esponja-maquiagem.jpg",
+      "swatches": [
+        {
+          "color": "Roxa",
+          "hex": "#a77fd6",
+          "active": true
+        },
+        {
+          "color": "Amarela",
+          "hex": "#f2d94e",
+          "active": false
+        },
+        {
+          "color": "Vermelha",
+          "hex": "#e8384e",
+          "active": false
+        }
+      ]
+    },
+    {
+      "id": "removedor-cravos",
+      "name": "Removedor de Cravos e Espinhas",
+      "desc": "Tiras que removem cravos e espinhas suavemente.",
+      "price": 4.99,
+      "tag": "Skincare",
+      "image": "/images/products/removedor-cravos.jpg",
+      "swatches": []
+    },
+    {
+      "id": "gloss-magico",
+      "name": "Gloss Labial Mágico",
+      "desc": "Brilho perolado com toque mágico e cheirinho gostoso.",
+      "price": 9.99,
+      "tag": "Lábios",
+      "image": "/images/products/gloss-magico.jpg",
+      "swatches": []
+    },
+    {
+      "id": "magic-gloss",
+      "name": "Magic Gloss",
+      "desc": "Gloss transparente com brilho suave e natural. 4ml.",
+      "price": 9.99,
+      "tag": "Lábios",
+      "image": "/images/products/magic-gloss.jpg",
+      "swatches": []
+    },
+    {
+      "id": "batom-soft-matte",
+      "name": "Batom Líquido Soft Matte",
+      "desc": "Acabamento matte de longa duração. 4ml.",
+      "price": 9.99,
+      "tag": "Lábios",
+      "image": "/images/products/batom-soft-matte.jpg",
+      "swatches": []
+    }
+  ]
+}
